@@ -1,0 +1,23 @@
+{
+  "model_type": "random_forest",
+  "n_samples": 2000,
+  "random_state": 42,
+  "use_scaler": true,
+  "r2_score": 0.948253568227939,
+  "train_r2_score": 0.9939944151070551,
+  "test_mse": 1939.7678717789365,
+  "test_mae": 12.700890022415779,
+  "test_rmse": 44.04279591237296,
+  "cv_mean_r2": 0.9700838093407228,
+  "cv_std_r2": 0.00782519615037965,
+  "training_date": "2025-12-17T02:02:38.662877",
+  "feature_names": [
+    "velocity",
+    "angle",
+    "drag",
+    "sin_angle",
+    "cos_angle",
+    "sin_2angle",
+    "v0_sin2"
+  ]
+}
