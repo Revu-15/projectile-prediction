@@ -67,7 +67,7 @@ npm >= 9.0.0
 
 ```bash
 # Clone repository
-git clone https://github.com/rana-rohit/projectile-prediction.git
+git clone https://github.com/Revu-15/projectile-prediction.git
 cd projectile-prediction
 
 # Backend setup
